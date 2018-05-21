@@ -7,4 +7,4 @@ still get the answer you need. For example:
     y is 123
     is x equal to y
     
-andy you'd get the answer!
+and you'd get the answer!
