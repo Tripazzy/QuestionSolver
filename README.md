@@ -10,8 +10,6 @@ still get the answer you need. For example:
 and you'd get the answer!
 
 # The commands
-(If you can call them that.)
-
 The commands that this program recognises are similar to human
 speech, as you can see below:
 
@@ -20,3 +18,7 @@ or number
 * what is \[x]: Tells you what \[x] is set to
 * what is \[x] plus \[y]: Tells you what \[x] plus \[y] is. \[x]
 and \[y] can be either values or variable names.
+* what is the area: Multiplies any variable called width by any
+variable called height.
+* what is the volume: Multiplies any variable called width by
+any variable called height by any variable called depth
